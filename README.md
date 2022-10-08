@@ -21,22 +21,26 @@ Airlines, aircrafts, airports and passengers were represented by their own inter
 ### Types of Aircraft:
 There are 4 types of aircraft each with its own use case. 
 
-- Widebody: Long range, high capacity widebody passenger aircraft
-- Rapid: Medium to long range, medium capacity fast passenger aircraft
-- Jet: Short range, low capacity luxury passenger jet
-- Prop: Short range, medium capacity turboprop aircraft
+- **Widebody:** Long range, high capacity widebody passenger aircraft
+- **Rapid:** Medium to long range, medium capacity fast passenger aircraft
+- **Jet:** Short range, low capacity luxury passenger jet
+- **Prop:** Short range, medium capacity turboprop aircraft
 
-#Types of Passenger:
+# Types of Passenger:
 There are 4 types of passenger each with different properties and needs.
 
-- Economy Passenger
-- Business Passenger
-- First Class Passenger
-- Luxury Passenger
+- **Economy Passenger**
+- **Business Passenger**
+- **First Class Passenger**
+- **Luxury Passenger**
 
-#Types of Airport:
+# Types of Airport:
 Different types of airports serve different purposes.
 
-- Hub Airport
-- Major Airport
-- Regional Airport
+- **Hub Airport**
+- **Major Airport**
+- **Regional Airport**
+
+Every class had various functionalities. For example aircraft classes have methods to refuel, fly or passenger classes have methods to load, unload from an aircraft. These are all listed in the project descriotion file.
+
+After implementing these classes I came up with an algortihm to gain profit. It was implemented in the main.class.
