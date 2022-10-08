@@ -1,0 +1,12 @@
+These plots should give you a rough idea of airport point generation.
+
+
+Green regions are around hub airport points and each green circle has a radius of 7000 units.
+
+Blue regions are around major airport points and each blue circle has a radius of 5000 units.
+
+Red regions are around regional airport points and each red circle has a radius of 1500 units.
+
+These circles are there to give you an idea of airport connectivity and aircraft ranges.
+
+linear scatter has the same hub generation as normal scatter it's just a little more linear.
